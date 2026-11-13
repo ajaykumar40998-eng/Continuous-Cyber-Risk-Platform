@@ -1,6 +1,6 @@
 # SIH26105 — Cyber Risk Quantification & Investment Optimization Platform
 
-A demo 50%-ready full-stack prototype for a project presentation.
+A demo 50-60% prototype for a project presentation.
 
 ## Included
 - React + TypeScript + Vite frontend
